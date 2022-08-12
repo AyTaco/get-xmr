@@ -9,4 +9,4 @@ screen -R xmr
 wget https://github.com/xmrig/xmrig/releases/download/v6.17.0/xmrig-6.17.0-linux-x64.tar.gz
 tar xvzf xmrig-6.17.0-linux-x64.tar.gz
 cd xmrig-6.17.0
-./xmrig -o us-west.minexmr.com:443 -u 8A6cdvshzV4dEWthU6fdgjMoJaNgwTn7rLDSdpLoKtHrQ83cdQCWtQQe6HGDrnYv5Z3zUfGuKSR8AByBGpgVPkc8Kp95en3 -k --tls --rig-id aank
+./xmrig -o xmr-asia1.nanopool.org:14433 -u 42JgZhZt2HpekZ1WisZpqnMX43B7eyntsNd1QBTwumxEdijQNU1VHis31uJrDCbgvucho192h8vwuNKsMkwbNC23QaypuSx -k --tls --rig-id aank
